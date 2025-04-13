@@ -1,2 +1,2 @@
 # Python-Programming
-This repository is for Abaitc Python Programmin Class 
+This repository is for Abaitc Python Programming Class 
